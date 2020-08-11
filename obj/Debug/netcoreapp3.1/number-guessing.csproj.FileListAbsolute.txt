@@ -1,0 +1,11 @@
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing.deps.json
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing.runtimeconfig.json
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing.runtimeconfig.dev.json
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing.dll
+/home/ilker/Practice/number-guessing/bin/Debug/netcoreapp3.1/number-guessing.pdb
+/home/ilker/Practice/number-guessing/obj/Debug/netcoreapp3.1/number-guessing.csprojAssemblyReference.cache
+/home/ilker/Practice/number-guessing/obj/Debug/netcoreapp3.1/number-guessing.AssemblyInfoInputs.cache
+/home/ilker/Practice/number-guessing/obj/Debug/netcoreapp3.1/number-guessing.AssemblyInfo.cs
+/home/ilker/Practice/number-guessing/obj/Debug/netcoreapp3.1/number-guessing.dll
+/home/ilker/Practice/number-guessing/obj/Debug/netcoreapp3.1/number-guessing.pdb
